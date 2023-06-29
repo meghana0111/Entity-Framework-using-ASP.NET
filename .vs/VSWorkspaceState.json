@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Bulky.DataAccess",
+    "\\Bulky.DataAccess\\Repository",
+    "\\Bulky.DataAccess\\Repository\\IRepository",
+    "\\Bulky.Models",
+    "\\Bulkyweb",
+    "\\Bulkyweb\\Controllers"
+  ],
+  "SelectedNode": "\\Bulkyweb\\Controllers\\CategoryController.cs",
+  "PreviewInSolutionExplorer": false
+}

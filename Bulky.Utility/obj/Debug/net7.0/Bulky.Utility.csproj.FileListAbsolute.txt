@@ -1,0 +1,24 @@
+D:\myDotNetPractice\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+D:\myDotNetPractice\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+D:\myDotNetPractice\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+D:\myDotNetPractice\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\Meghana Pawar\Downloads\CRUD\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
